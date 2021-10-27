@@ -16,4 +16,4 @@ mkdir dir31
 cd dir31
 mkdir dir311
 mkdir dir312
-	
+18. cp /etc/hostname /home/alumno/Escritorio/PRUEBA
