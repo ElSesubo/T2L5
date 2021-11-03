@@ -7,3 +7,37 @@
 7. ls -a /
 8. ls /etc | grep -v t
 9. ls /usr /*
+10. cd /tmp
+11. pwd
+12. date
+13. cd /home
+14. pwd
+15. ls -li
+16. mkdir PRUEBA
+17. 
+mkdir dir1
+mkdir dir2
+mkdir dir3
+cd dir1
+mkdir dir11
+cd /dir3
+mkdir dir31
+cd dir31
+mkdir dir311
+mkdir dir312
+18. cp /etc/hostname /home/alumno/Escritorio/PRUEBA
+19. 
+cp /etc/hostname /home/alumno/Escritorio/dir1
+cp /etc/hostname /home/alumno/Escritorio/dir2
+cp /etc/hostname /home/alumno/Escritorio/dir37
+20. cp -r /etc/hostname /home/alumno/Escritorio/dir1 dir2 dir3
+1. cat el_quijote.txt | grep -i -o Quijote | wc -l
+2. cat el_quijote.txt | grep -v Quijote | wc -l
+3. grep -rio Quijote | wc -l
+4. grep -r -v quijote*.txt | wc -l
+5. cat el_quijote.txt | sed 's/panza/barriga/g'
+6. cat el_quijote.txt | sed 's/panza/barriga/gi'
+7. cat el_quijote.txt | head -c 4
+8. cat el_quijote.txt | head -c 4000
+9. cat el_quijote.txt | head -n 25 | tail -n 11
+10. cat el_quijote.txt | sort -fr
