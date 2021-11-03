@@ -7,3 +7,4 @@
 7. cat el_quijote.txt | head -c 4
 8. cat el_quijote.txt | head -c 4000
 9. cat el_quijote.txt | head -n 25 | tail -n 11
+10. cat el_quijote.txt | sort -fr
