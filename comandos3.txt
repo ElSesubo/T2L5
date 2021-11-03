@@ -3,3 +3,4 @@
 3. grep -rio Quijote | wc -l
 4. grep -r -v quijote*.txt | wc -l
 5. cat el_quijote.txt | sed 's/panza/barriga/g'
+6. cat el_quijote.txt | sed 's/panza/barriga/gi'
