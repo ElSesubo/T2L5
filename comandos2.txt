@@ -17,3 +17,7 @@ cd dir31
 mkdir dir311
 mkdir dir312
 18. cp /etc/hostname /home/alumno/Escritorio/PRUEBA
+19. 
+cp /etc/hostname /home/alumno/Escritorio/dir1
+cp /etc/hostname /home/alumno/Escritorio/dir2
+cp /etc/hostname /home/alumno/Escritorio/dir3
