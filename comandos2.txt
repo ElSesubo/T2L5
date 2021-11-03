@@ -20,4 +20,5 @@ mkdir dir312
 19. 
 cp /etc/hostname /home/alumno/Escritorio/dir1
 cp /etc/hostname /home/alumno/Escritorio/dir2
-cp /etc/hostname /home/alumno/Escritorio/dir3
+cp /etc/hostname /home/alumno/Escritorio/dir37
+20. cp -r /etc/hostname /home/alumno/Escritorio/dir1 dir2 dir3
